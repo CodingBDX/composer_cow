@@ -1,0 +1,16 @@
+{
+    "name": "vendor/vache",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Vache\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "codingbdx"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
